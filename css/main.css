@@ -137,11 +137,19 @@ body {
     font-size: 24px;
     line-height: 150%;
     color: #ffffff;
+    color: #ffffff;
     transition: 0.3s; }
     .navbar-list li:hover {
       color: #1EEBCD;
       transition: 0.3s; }
-
+      .navbar-list a{
+        color: #ffffff;
+        transition: 0.3s;
+      }
+      .navbar-list a:hover{
+        color: #1EEBCD;
+      transition: 0.3s;
+      }
 .navbar-btn {
   display: flex;
   margin-left: 163px; }
