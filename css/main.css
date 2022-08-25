@@ -142,7 +142,7 @@ body {
     .navbar-list li:hover {
       color: #1EEBCD;
       transition: 0.3s; }
-      .navbar-list a{
+      .navbar-list li a{
         color: #ffffff;
         transition: 0.3s;
       }
